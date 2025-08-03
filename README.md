@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="mailto:fatmahadad906@gmail.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> Email</a></code>
+  <code><a href="mailto:f42622996@gmail.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> Email</a></code>
   <code><a href="https://github.com/fatmahadad" title="GitHub Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"> GitHub</a></code>
 </h5>
 <br>
